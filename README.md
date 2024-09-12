@@ -1,1 +1,2 @@
-I am learning Git and Github. # gitTraining
+# gitTraining
+*I am learning Git and Github.*
